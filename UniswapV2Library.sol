@@ -1,9 +1,9 @@
 //SPDX-License-Identifier: MIT
 pragma solidity =0.6.6;
 
-import "../interfaces/IUniswapV2Pair.sol";
+import "https://github.com/IfalayeServices/Loan/blob/main/interfaces/IUniswapV2Pair.sol";
 
-import "./SafeMath.sol";
+import "https://github.com/IfalayeServices/Loan/blob/main/SafeMath.sol";
 
 library UniswapV2Library {
     using SafeMath for uint256;
