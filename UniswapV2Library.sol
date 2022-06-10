@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity =0.6.6;
 
-import "https://github.com/IfalayeServices/Loan/blob/main/interfaces/IUniswapV2Pair.sol";
+import "https://github.com/IfalayeServices/Loan/blob/main/IUniswapV2Pair.sol";
 
 import "https://github.com/IfalayeServices/Loan/blob/main/SafeMath.sol";
 
